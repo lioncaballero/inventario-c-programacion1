@@ -22,9 +22,9 @@ Proyecto desarrollado para la materia Programación I.
 *lo que esta entre "..." es lo que se debe escribir*
 
 - Paso 1:
-  - En la carpeta descargada, escribir "cmd" en la barra de dirreccion.
+  - En la carpeta descargada, escribir "cmd" en la barra de dirección.
 - Paso 2:
-  - En el programa cmd escribir "dir" para verificar que esten los archivos.
+  - En el programa cmd escribir "dir" para verificar que estén los archivos.
 - Paso 3:
   - Escribir "gcc main.c inventario.c -o inventario" para compilar el programa.
 - Paso 4:
