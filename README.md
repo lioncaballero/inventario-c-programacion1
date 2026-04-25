@@ -26,6 +26,6 @@ Proyecto desarrollado para la materia Programación I.
 - Paso 2:
   - En el programa cmd escribir "dir" para verificar que esten los archivos.
 - Paso 3:
-  - Escribir "gcc main.c inventario.c" para compilar el programa.
+  - Escribir "gcc main.c inventario.c -o inventario" para compilar el programa.
 - Paso 4:
   - Escribir "inventario" para ejecutar el programa.
